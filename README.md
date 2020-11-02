@@ -31,9 +31,9 @@
 
 > [![](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&labelColor=ccc&logoColor=4FC08D&style=flat-square)](https://code.visualstudio.com)
 
-> [![](https://img.shields.io/badge/Element_ui-409eff?logo=Embarcadero&labelColor=ccc&logoColor=409eff&style=flat-square)](https://code.visualstudio.com)
+> [![](https://img.shields.io/badge/Element_UI-409eff?logo=Embarcadero&labelColor=ccc&logoColor=409eff&style=flat-square)](https://code.visualstudio.com)
 
-> [![](https://img.shields.io/badge/N-Nouo_Editor-grey?labelColor=ccc&style=flat-square)](https://github.com/minrang/nouo-editor)
+> [![](https://img.shields.io/badge/N-Nouo_Editor-grey?labelColor=ccc&style=flat-square)](https://github.com/minrang/editor)
 
 #### Production environment
 
