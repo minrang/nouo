@@ -3,7 +3,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=nouo123&show_icons=true&hide=stars,prs&hide_title=true&theme=cobalt&hide_border=true)](https://github.com/nouo123/)
 
 <details>
-<summary>Who are Jay?</summary>
+<summary>Who is Jay?</summary>
 
 > He advocates fairness and peace.
 >
