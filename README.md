@@ -33,7 +33,7 @@
 
 > [![](https://img.shields.io/badge/Element_ui-409eff?logo=Embarcadero&labelColor=ccc&logoColor=409eff&style=flat-square)](https://code.visualstudio.com)
 
-> [![](https://img.shields.io/badge/N-Nouo_Editor-grey?labelColor=ccc&style=flat-square)](https://postgresql.org)
+> [![](https://img.shields.io/badge/N-Nouo_Editor-grey?labelColor=ccc&style=flat-square)](https://github.com/minrang/nouo-editor)
 
 #### Production environment
 
@@ -43,4 +43,4 @@
 
 > [![](https://img.shields.io/badge/PostgreSQL-blue?logo=PostgreSQL&labelColor=ccc&logoColor=blue&style=flat-square)](https://postgresql.org)
 
-> [![](https://img.shields.io/badge/N-Nouo-grey?labelColor=ccc&style=flat-square)](https://postgresql.org)
+> [![](https://img.shields.io/badge/N-Nouo-grey?labelColor=ccc&style=flat-square)](https://github.com/minrang/nouo)
